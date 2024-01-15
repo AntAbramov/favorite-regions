@@ -11,6 +11,7 @@
 ## Tech
 - IOS 16.0+
 - SwiftUI
+- MVVM + Router
 - Networking using async/await
 
 ## Installation
