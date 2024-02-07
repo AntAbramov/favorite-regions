@@ -20,7 +20,7 @@
 
 ## Features
 - Generic Networking Layer (Abstraction to the level of request creation)
-- Custom Image Gallary (with select animation)
+- Custom Image Gallary (With select animation)
 - Like Region (Saves likes for the session duration)
 - Routing via NavigationStack using custom Router (Separated from UI layer)
 - Animation for image installing after loaded
